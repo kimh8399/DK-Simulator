@@ -3,13 +3,12 @@
 //
 // 2017
 
-
 #include <iostream>
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Welcome to DK Simulator 20XX!" << endl;
     return 0;
 }
